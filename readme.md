@@ -6,5 +6,5 @@
 * How to use Jupyter Notebooks
 * Introduction to Numpy (With Exercises)
 * Introduction to Pandas (With Exercises)
-* Data Cleaning
+* Data Cleaning and How it's done
 * Reading Data from SQL, CSV's, API, etc.
